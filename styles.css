@@ -1,6 +1,8 @@
 .center{text-align: center;}
 .img {display: block; margin-left: auto; margin-right: auto;}
-.body {background-image: linear-gradient(to bottom right, rgb(21, 109, 35), rgb(255, 255, 255));}
+.body {background-image: linear-gradient(to bottom right, rgb(107, 107, 107), rgb(255, 255, 255));}
 ul.demo {list-style: none; margin: 0; padding: 0;}
-ul#contents li {display: inline;}
-li {padding: 10;}
+ul#contents li {display: inline; padding: 10px;}
+
+html {margin-left: 250px; margin-right: 250px;}
+section {padding: 30px;}
